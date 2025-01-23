@@ -34,7 +34,7 @@ pip install selenium pandas openpyxl
 ## Setup Instructions
 1. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/property-agents-scraper.git
+   git clone https://github.com/KT-KX/Property-agent-scraping.git
    cd property-agents-scraper
    ```
 
